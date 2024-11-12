@@ -1,5 +1,5 @@
 # CS590-DeepLearners
-CS590 Deep Learning Course Project
+CS590 Deep Learning Course Project : Semantic Image Segmentation
 
 This repo contains all the SOTA implementations along with proposed architecture.
 The proposed model is implemented in the DLDM.ipynb file. The Model architecture and parameter details are store in the DLDM_model_architecture.txt and DLDM_Model_Parameters.jpeg files.
